@@ -9,7 +9,7 @@ No functionality.
     "category": "Hidden",
     "version": "19.0.1.0.0",
     "license": "LGPL-3",
-    "author": "Tarynix Solutions",
+    "author": "Quoterito Test",
     "support": "support@tarynix.com",
     "depends": ["base"],
     "installable": True,
